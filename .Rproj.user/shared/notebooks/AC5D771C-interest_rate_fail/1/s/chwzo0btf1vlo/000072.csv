@@ -1,0 +1,2 @@
+"0","interest_rate_2004 <- interest_rate[interest_rate$DATE >= '2004-01-01', ]"
+"0","head(interest_rate_2004)"

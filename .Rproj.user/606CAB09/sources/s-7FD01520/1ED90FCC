@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538737996763.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1ED90FCC",
+    "lastKnownWriteTime" : 1538762354,
+    "last_content_update" : 1538792718281,
+    "path" : "~/Desktop/Afhi/마스터/한국의미래/한국기준금리/korea_futures.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "49,0",
+        "scrollLine" : "26",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

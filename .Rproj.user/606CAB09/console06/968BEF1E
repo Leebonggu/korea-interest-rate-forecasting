@@ -1,0 +1,34 @@
+]0;~/Desktop/Afhi/마스터/한국의미래/한국기준금리[?1034hleebongguui-MacBook-Pro:한국기준금리 bonggus$ [Kleebongguui-MacBook-Pro:한국기준금리 bonggus$ ls
+data				korea_futures.R			us_interest_rate_daily_test.R
+interest_rate_fail.Rmd		present_data.R			정리.numbers
+interest_rate_fail.docx		regression.R			한국기준금리.Rproj
+]0;~/Desktop/Afhi/마스터/한국의미래/한국기준금리leebongguui-MacBook-Pro:한국기준금리 bonggus$ git init
+Initialized empty Git repository in /Users/bonggus/Desktop/Afhi/마스터/한국의미래/한국기준금리/.git/
+]0;~/Desktop/Afhi/마스터/한국의미래/한국기준금리leebongguui-MacBook-Pro:한국기준금리 bonggus$ git add [K[K[K[K[K[K[K[Kgit status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.DS_Store[m
+	[31m.RData[m
+	[31m.Rhistory[m
+	[31m.Rproj.user/[m
+	[31mdata/[m
+	[31minterest_rate_fail.Rmd[m
+	[31minterest_rate_fail.docx[m
+	[31mkorea_futures.R[m
+	[31mpresent_data.R[m
+	[31mregression.R[m
+	[31mus_interest_rate_daily_test.R[m
+	[31m"\354\240\225\353\246\254.numbers"[m
+	[31m"\355\225\234\352\265\255\352\270\260\354\244\200\352\270\210\353\246\254.Rproj"[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;~/Desktop/Afhi/마스터/한국의미래/한국기준금리leebongguui-MacBook-Pro:한국기준금리 bonggus$ gt[K[Kgit[K[K[Kgit remote add[K[K[K[K[K[K[K[K[K[Kad[K[Kremote add origin https://github.com/Leebonggu/korea-interest-rate-forecasting
+]0;~/Desktop/Afhi/마스터/한국의미래/한국기준금리leebongguui-MacBook-Pro:한국기준금리 bonggus$ git remote -v
+origin	https://github.com/Leebonggu/korea-interest-rate-forecasting (fetch)
+origin	https://github.com/Leebonggu/korea-interest-rate-forecasting (push)
+]0;~/Desktop/Afhi/마스터/한국의미래/한국기준금리leebongguui-MacBook-Pro:한국기준금리 bonggus$ git add .

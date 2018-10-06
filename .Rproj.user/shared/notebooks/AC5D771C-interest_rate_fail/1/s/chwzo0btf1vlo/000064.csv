@@ -1,0 +1,3 @@
+"0","cci_index_2004 <- cci_index[cci_index$DATE >= '2004-01-01', ]"
+"0","# facility_investing"
+"0","head(facility_investing)"

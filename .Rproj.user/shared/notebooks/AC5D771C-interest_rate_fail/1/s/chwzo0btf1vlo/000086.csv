@@ -1,0 +1,2 @@
+"0","korea_import_price_index_2004 <- korea_import_price_index[korea_import_price_index$DATE >= '2004-01-01', ]"
+"0","tail(korea_import_price_index_2004)"

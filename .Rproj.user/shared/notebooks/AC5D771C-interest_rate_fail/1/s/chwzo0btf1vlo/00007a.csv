@@ -1,0 +1,2 @@
+"0","interest_rate_us_2004 <- interest_rate_us[interest_rate_us$DATE >= '2004-01-01', ]"
+"0","interest_rate_us_2004"

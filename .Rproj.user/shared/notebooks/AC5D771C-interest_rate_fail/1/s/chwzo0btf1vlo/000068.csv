@@ -1,0 +1,6 @@
+"0","facility_investing_2004 <- facility_investing[facility_investing$DATE >= '2004-01-01',]"
+"0","#foreign_selling"
+"0","# inflation"
+"0","inflation_2004 <- inflation[inflation$DATE >= '2004-01-01',]"
+"0","inflation_2004 <- inflation_2004[1:length(inflation_2004$DATE)-1, ]"
+"0","inflation_2004"
